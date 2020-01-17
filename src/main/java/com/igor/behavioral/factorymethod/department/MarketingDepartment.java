@@ -1,6 +1,6 @@
-package com.igor.behavioral.factory.method.department;
+package com.igor.behavioral.factorymethod.department;
 
-import com.igor.behavioral.factory.method.model.MarketingStrategy;
+import com.igor.behavioral.factorymethod.model.MarketingStrategy;
 
 public class MarketingDepartment extends Department {
     private MarketingStrategy strategyType;

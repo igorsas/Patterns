@@ -1,6 +1,4 @@
-package com.igor.behavioral.factory.method.department;
-
-import com.igor.behavioral.factory.method.department.Department;
+package com.igor.behavioral.factorymethod.department;
 
 public class SecurityDepartment extends Department {
     private boolean allowedFirearms;

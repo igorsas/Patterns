@@ -1,6 +1,6 @@
-package com.igor.behavioral.factory.method.office;
+package com.igor.behavioral.factorymethod.office;
 
-import com.igor.behavioral.factory.method.department.Department;
+import com.igor.behavioral.factorymethod.department.Department;
 
 public abstract class Office {
     protected String name;

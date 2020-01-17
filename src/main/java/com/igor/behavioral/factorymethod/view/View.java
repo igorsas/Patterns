@@ -1,8 +1,8 @@
-package com.igor.behavioral.factory.method.view;
+package com.igor.behavioral.factorymethod.view;
 
-import com.igor.behavioral.factory.method.office.Office;
-import com.igor.behavioral.factory.method.office.SalesOffice;
-import com.igor.behavioral.factory.method.office.SecurityOffice;
+import com.igor.behavioral.factorymethod.office.Office;
+import com.igor.behavioral.factorymethod.office.SalesOffice;
+import com.igor.behavioral.factorymethod.office.SecurityOffice;
 
 import java.util.Scanner;
 

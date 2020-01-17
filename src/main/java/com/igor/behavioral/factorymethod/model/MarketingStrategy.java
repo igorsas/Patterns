@@ -1,4 +1,4 @@
-package com.igor.behavioral.factory.method.model;
+package com.igor.behavioral.factorymethod.model;
 
 public enum MarketingStrategy {
     B2B("Business to business"),

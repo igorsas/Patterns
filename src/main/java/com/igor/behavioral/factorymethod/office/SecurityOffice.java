@@ -1,6 +1,6 @@
-package com.igor.behavioral.factory.method.office;
+package com.igor.behavioral.factorymethod.office;
 
-import com.igor.behavioral.factory.method.department.SecurityDepartment;
+import com.igor.behavioral.factorymethod.department.SecurityDepartment;
 
 public class SecurityOffice extends Office {
     public SecurityOffice(String name) {

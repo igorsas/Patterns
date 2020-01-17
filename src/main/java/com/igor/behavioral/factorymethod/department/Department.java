@@ -1,4 +1,4 @@
-package com.igor.behavioral.factory.method.department;
+package com.igor.behavioral.factorymethod.department;
 
 public abstract class Department {
     protected int employeesNumber;
