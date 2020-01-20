@@ -6,8 +6,8 @@ import java.util.List;
 
 public class LionTurtle {
     public void createBender(BenderBuilder benderBuilder, List<Bending> bending) {
-        for (int i = 0; i < bending.size(); i++) {
-            switch (bending.get(i)) {
+        for (Bending value : bending) {
+            switch (value) {
                 case AIRBENDING:
                     benderBuilder.addAirBending();
                     break;
