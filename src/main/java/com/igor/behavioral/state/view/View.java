@@ -9,7 +9,7 @@ public class View {
     private static Game fifa20;
     private static Game fortnite;
 
-    public static void main(String[] args) {
+    public static void view() {
         fifa20 = new Game(false, "Fifa 20");
         fortnite = new Game(true, "Fortnite");
 
