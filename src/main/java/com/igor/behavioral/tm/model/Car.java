@@ -1,7 +1,7 @@
 package com.igor.behavioral.tm.model;
 
 public abstract class Car {
-    public void drive(){
+    public final void drive(){
         buckleUp();
         startCar();
         chooseGear();
