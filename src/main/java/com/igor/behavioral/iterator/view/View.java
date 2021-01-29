@@ -4,12 +4,10 @@ import com.igor.behavioral.iterator.collection.FrankoUniversity;
 import com.igor.behavioral.iterator.iterator.UniversityIterator;
 import com.igor.behavioral.iterator.model.MemberType;
 import com.igor.behavioral.iterator.model.UniversityMember;
-import com.sun.org.apache.regexp.internal.RE;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 public class View {
     public static void main(String[] args) {
